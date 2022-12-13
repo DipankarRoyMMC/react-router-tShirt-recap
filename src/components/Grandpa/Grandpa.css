@@ -1,0 +1,21 @@
+.grandpa {
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+.grandpa, .grandpa div{
+    border: 2px solid darkorchid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+.parent-container{
+    display: flex;
+}
+
+.grandpa p{
+    margin: 0;
+}
+.grandpa h1{
+    margin: 0;
+}
